@@ -1,5 +1,9 @@
 # calculator 
-    This has basic calculator user interface designed with the help of html and css 
-    functionality is to be added using js..
-    stay tunned for updation
+    This is a fully functional calculator 
+    Technologies that i used to create this calculator is 
+        - HTML
+        - CSS
+        - JAVASCRIPT
+        
+
  
